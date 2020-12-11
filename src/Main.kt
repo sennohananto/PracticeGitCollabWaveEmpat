@@ -6,4 +6,6 @@ fun main(){
     println("Hello Senno Lagi")
     //code dari ric
     println("hello ric")
+    //code dari ric dari branchric
+    println("welcome to ric")
 }
