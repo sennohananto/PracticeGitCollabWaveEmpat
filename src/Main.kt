@@ -4,4 +4,6 @@ fun main(){
 
     //Code dari senno LAGI
     println("Hello Senno Lagi")
+    //code dari ric
+    println("hello ric")
 }
